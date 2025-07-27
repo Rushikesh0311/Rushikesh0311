@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rushikesh0311  
 - 👀 I’m interested in cloud computing, automation, and software development.  
-- 🌱 I’m currently learning advanced Python, Java, and exploring cloud services like AWS.  
-- 💞️ I’m looking to collaborate on open-source projects and innovative software solutions.  
+- 🌱 I’m currently learning Python, C Prog, and exploring cloud services like AWS.   
 - 📫 How to reach me: [Rushigore0309@gmail.com](mailto:Rushigore0309@gmail.com)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I'm fascinated by AI-driven chatbots and love experimenting with automation in my spare time!  
