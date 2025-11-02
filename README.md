@@ -1,13 +1,13 @@
 <!-- Profile Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Rushikesh0311/Rushikesh0311/blob/main/profile-![WhatsApp Image 2025-11-02 at 5 13 01 PM](https://github.com/user-attachments/assets/ce1b4583-b627-4b23-b373-14cd7fb73014)
 " alt="Rushikesh Gore Banner" width="800"/>
-</p>
+</p> -->
 
 <!-- Typing Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋+I'm+Rushikesh+Gore;Aspiring+Embedded+and+IoT+Engineer;Passionate+about+Automation+and+System+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋+I'm+Rushikesh+Gore;Aspiring+Embedded+and+IoT+Engineer+Passionate+about+Automation+and+System+Design" alt="Typing SVG" />
   </a>
 </h1>
 
