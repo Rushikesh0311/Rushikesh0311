@@ -1,6 +1,7 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/Rushikesh0311/Rushikesh0311/blob/main/profile-banner.png" alt="Rushikesh Gore Banner" width="800"/>
+  <img src="https://github.com/Rushikesh0311/Rushikesh0311/blob/main/profile-![WhatsApp Image 2025-11-02 at 5 13 01 PM](https://github.com/user-attachments/assets/ce1b4583-b627-4b23-b373-14cd7fb73014)
+" alt="Rushikesh Gore Banner" width="800"/>
 </p>
 
 <!-- Typing Animation -->
