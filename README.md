@@ -1,14 +1,8 @@
-<!-- Profile Banner -->
-<!-- <p align="center">
-  <img src="https://github.com/Rushikesh0311/Rushikesh0311/blob/main/profile-![WhatsApp Image 2025-11-02 at 5 13 01 PM](https://github.com/user-attachments/assets/ce1b4583-b627-4b23-b373-14cd7fb73014)
-" alt="Rushikesh Gore Banner" width="800"/>
-</p> -->
+
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋+I'm+Rushikesh+Gore;Aspiring+Embedded+and+IoT+Engineer+Passionate+about+Automation+and+System+Design" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Rushikesh+Gore;Aspiring+Embedded+and+IoT+Engineer;Passionate+about+Automation+and+System+Design" alt="Typing SVG" />
 </h1>
 
 ---
@@ -35,14 +29,21 @@
 ### 🚀 Projects Showcase
 
 #### 📘 [AddressBook_Project](https://github.com/Rushikesh0311/AddressBook_Project)
-A simple and interactive file handling project in C designed to manage and organize contacts with CSV integration.  
-**Tech Used:** C, File Handling, CSV Processing
+A file-handling based Address Book application in **C language** that allows users to add, delete, update, and view contacts stored in a CSV/text file.  
+**Tech Used:** C, File Handling, CSV Processing  
+**Highlights:** Structured data management, modular coding, beginner-friendly interface
+
+#### 🔐 [Password_manager](https://github.com/Rushikesh0311/Password_manager)
+A simple **Password Manager** implemented in **C** with file handling to securely store and retrieve passwords.  
+**Tech Used:** C, File Handling, Simple Encryption
+**Features:** Add password entries, View saved entries, Search by label, Delete entries, Persist data to text file (`passwords.txt`).
 
 #### 🎵 [MP3Tag-Reader---Editor](https://github.com/Rushikesh0311/MP3Tag-Reader---Editor)
-A utility that reads and edits metadata (ID3 tags) in MP3 files using file handling techniques.  
-**Tech Used:** C, File Handling, Command-Line Interface
+A C project that reads and edits MP3 file metadata (ID3 tags) like title, artist, and album directly from binary data.  
+**Tech Used:** C, File Handling, Bitwise Operations  
+**Highlights:** Hands-on with binary manipulation and real-world data structures
 
-#### 💡 [C-programming](https://github.com/Rushikesh0311/C-programming)
+#### 🧮 [C-programming](https://github.com/Rushikesh0311/C-programming)
 Contains small programs for learning and mastering C fundamentals — loops, arrays, functions, and file handling.  
 **Tech Used:** C
 
@@ -52,19 +53,19 @@ A collection of my C language mini-projects and experiments.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Languages
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rushikesh0311&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikesh0311&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rushikesh0311&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh0311&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="mailto:rushigore0309@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rushikeshgore11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Rushikesh0311"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:rushigore0309@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/rushikeshgore11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Rushikesh0311"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
