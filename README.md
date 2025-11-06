@@ -56,7 +56,6 @@ A collection of my C language mini-projects and experiments.
 ### 📊 GitHub Stats & Languages
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rushikesh0311&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh0311&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
