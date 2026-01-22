@@ -1,14 +1,14 @@
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋+I'm+Rushikesh+Gore;Aspiring+Embedded+and+IoT+Engineer;Passionate+about+Automation+and+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there!+👋;I'm+Rushikesh+Gore;Aspiring+Embedded+and+IoT+Engineer;Passionate+about+Automation+and+System+Design" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### 🧑‍💻 About Me
 - 🎓 BE (E&TC) Student passionate about **Embedded Systems & IoT Development**
-- 💡 Exploring real-time embedded applications, Linux internals, and automation technologies
-- ⚙️ Skilled in **C**, **C++**, and **Linux System Programming**
+- 💡 Exploring real-time embedded applications, **Linux internals**, and automation technologies
+- ⚙️ Strong in **C**, **C++**, and **Linux System Programming**
 - 🌍 Based in Pune, India
 - ✉️ Reach me at: **rushigore0309@gmail.com**
 
@@ -78,4 +78,4 @@ A collection of C language mini-projects and experiments.
 
 ---
 
-<p align="center">✨ <i>Aspiring Embedded & IoT Engineer passionate about automation, Linux, and system design.</i> ✨</p>
+<p align="center">✨ <i>Rushikesh Gore | Embedded & IoT | Linux System Programming | C/C++</i> ✨</p>
