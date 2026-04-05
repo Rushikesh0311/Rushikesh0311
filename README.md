@@ -1,40 +1,43 @@
-# 👋 Hey, I'm Rushikesh Gore  
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rushikesh+Gore;Embedded+%26+IoT+Engineer;C+%7C+Linux+%7C+ESP32+Developer;Building+Real-World+Systems" />
+</h1>
 
-🚀 Embedded Systems & IoT Engineer  
-📍 Bangalore, India  
-
----
-
-## ⚡ About Me  
-
-I build systems where **hardware meets software**.  
-
-With a Bachelor's degree in Electronics & Telecommunication and hands-on experience from **Emertxe’s Advanced Embedded Systems & IoT training**, I focus on:  
-
-- Writing efficient low-level code in C  
-- Building Linux-based system applications  
-- Designing IoT systems using real communication protocols  
-
-💡 I enjoy solving problems close to the system level — where performance, memory, and hardware actually matter.
+<!-- Profile Views + Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rushikesh0311&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Embedded%20Systems-blue" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success" />
+</p>
 
 ---
 
-## 🧰 Tech Arsenal  
+## 🚀 About Me  
 
-**Languages**  
-`C` `C++` `Python`  
+💡 I build systems where **hardware meets software**  
 
-**Embedded & Systems**  
-`GPIO` `Interrupts` `Memory Management` `ESP32` `Raspberry Pi`  
+🎓 B.E. Electronics & Telecommunication (Completed)  
+📍 Bangalore | Emertxe Embedded Training (Ongoing)  
 
-**System Programming**  
-`Linux` `fork()` `exec()` `pipes` `signals` `IPC`  
+⚡ Passionate about:
+- Embedded Systems  
+- IoT Development  
+- Linux System Programming  
 
-**Protocols**  
-`UART` `SPI` `I2C` `MQTT` `TCP/IP` `UDP` `HTTP`  
+---
 
-**Tools**  
-`GCC` `Arduino IDE` `Git` `Linux (Ubuntu)`  
+## 🛠️ Tech Stack  
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,arduino" />
+
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Protocols-UART%20%7C%20SPI%20%7C%20I2C%20%7C%20MQTT-blue" />
+<img src="https://img.shields.io/badge/Tools-GCC%20%7C%20Arduino%20IDE-green" />
+</p>
 
 ---
 
@@ -42,89 +45,101 @@ With a Bachelor's degree in Electronics & Telecommunication and hands-on experie
 
 ### 💬 MQTT Multi-Client Chat System  
 
-🧠 Real-time communication using publish–subscribe model  
+✨ Real-time communication using publish–subscribe model  
 
-- Built using MQTT protocol with Mosquitto broker  
-- Supports multiple clients communicating asynchronously  
-- Demonstrates real-world IoT communication architecture  
+🚀 Features:
+- Multiple clients communication  
+- Asynchronous messaging  
+- MQTT (Mosquitto Broker)  
 
-🎥 Demo (add later):  
-`[Insert demo video link here]`  
-
-👉 Why it matters:  
-This project shows my understanding of **IoT communication + networking + asynchronous systems**  
+🎥 Demo: *(Add your video link here)*  
 
 ---
 
-## 🚀 Other Projects  
+## 🚀 Projects Showcase  
 
-### 🧠 Linux MiniShell  
-- Custom Unix shell supporting 15+ commands  
-- Implemented piping, redirection, and job control  
-- Used system calls: `fork()`, `exec()`, `wait()`  
+<details>
+<summary>🧠 Linux MiniShell</summary>
 
----
+- Custom Unix shell  
+- Supports piping & redirection  
+- Used fork(), exec(), wait()  
 
-### 🔐 Image Steganography (LSB)  
-- Hid secret data inside BMP images  
-- Bit-level manipulation with full data recovery  
+</details>
 
----
+<details>
+<summary>🔐 Image Steganography</summary>
 
-### 🎵 MP3 Tag Reader & Editor  
-- Read & modified ID3 metadata  
-- Efficient file handling and memory usage  
+- Data hiding using LSB  
+- Bitwise operations  
+- Secure encoding/decoding  
 
----
+</details>
 
-### 📒 Address Book System  
-- CLI-based contact manager  
-- CRUD operations with persistent storage  
+<details>
+<summary>🎵 MP3 Tag Editor</summary>
+
+- Read & modify metadata  
+- File handling + memory  
+
+</details>
+
+<details>
+<summary>📒 Address Book System</summary>
+
+- CRUD operations  
+- File-based storage  
+
+</details>
 
 ---
 
 ## ⚡ Hardware Projects  
 
-### ⚡ Wireless EV Charging System  
+🔌 **Wireless EV Charging System**  
 - Contactless charging using inductive coupling  
-- Raspberry Pi for monitoring & payment logic  
+- Raspberry Pi integration  
+
+🔐 **RFID Door Lock System**  
+- Secure access using RFID  
+- GPIO-based control  
 
 ---
 
-### 🔑 RFID Door Lock System  
-- Secure access system using RFID  
-- GPIO + microcontroller-based control  
+## 📊 GitHub Stats  
 
----
-
-## 📊 GitHub Insights  
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Rushikesh0311&show_icons=true&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rushikesh0311&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikesh0311&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🎯 Current Focus  
 
-- Embedded C (deep dive)  
-- ESP32 + IoT systems  
-- Building industry-level projects  
+🚀 Embedded C Deep Dive  
+📡 ESP32 + IoT Projects  
+⚡ Real-world system building  
 
 ---
 
-## 🌐 Let's Connect  
+## 🌐 Connect With Me  
 
-- 💼 LinkedIn: https://linkedin.com/in/rushikeshgore11  
-- 💻 GitHub: https://github.com/Rushikesh0311  
-
----
-
-## 🧭 What I'm Looking For  
-
-Opportunities in:  
-✔ Embedded Systems  
-✔ IoT Development  
-✔ Linux/System Programming  
+<p align="center">
+  <a href="https://linkedin.com/in/rushikeshgore11">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Rushikesh0311">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+## 🧭 Looking For  
+
+💼 Embedded / IoT / System Programming Roles  
+
+---
+
+⭐ *Turning ideas into embedded reality*
